@@ -17,7 +17,7 @@ ChatRoom is a simple chat application using socket.io and node
 - React.js
 - Socket.IO
 - Express.js
-- Cors
+- CORS
 
   ## Installation
 
